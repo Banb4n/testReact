@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+.card-header {
+  width: 500px;
+  position: relative;
+  top: 48vh;
+  transform: translateY(-50%);
+  margin: auto;
+  text-align: center;
+  background-color: rgba(grey, 0.9);
+  padding: 70px 25px;
+  border-radius: 3px;
+  h1 {
+    font-size: 3em;
+    font-weight: lighter;
+  }
+  p {
+    font-size: 1.8em;
+  }
+}
+
+footer {
+  padding: 20px;
+}
